@@ -22,6 +22,10 @@ This project is organized as a **modular monolith**: the application runs as one
 
 ## Architecture
 
+![AI-Agent-Restaurant architecture](assets/architecture.png)
+
+### Project Structure
+
 ```
 project_finals/
 ├── agentic_system/
@@ -249,9 +253,13 @@ uv run python main.py
 Open the interface at:
 
 ```
-http://127.0.0.1:7860
+http://127.0.0.1:7860 or http://localhost:7860/  #local in vscode and note: http not https
 ```
 
+Open the Website as google at:
+```
+http://127.0.0.1:7860 or https://localhost:7860/  #local in vscode and note: http and https with localhost keyword
+```
 ## Basic Verification
 
 Check that the main Python modules compile successfully:
