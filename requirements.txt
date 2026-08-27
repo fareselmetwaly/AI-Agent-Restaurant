@@ -1,0 +1,6 @@
+gradio
+openai
+supabase
+python-dotenv
+pandas
+json
