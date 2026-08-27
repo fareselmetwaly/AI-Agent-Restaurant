@@ -295,8 +295,6 @@ Only `.env.example` should be committed. If a real secret is ever committed, it 
 
 ## References
 
-[1]: https://docs.astral.sh/uv/ "uv official documentation"
-
-[2]: https://docs.astral.sh/uv/guides/projects/ "uv: Working on projects"
-
-[3]: https://docs.astral.sh/uv/getting-started/installation/ "uv: Installation"
+1. [uv official documentation](https://docs.astral.sh/uv/ )
+2. [uv: Working on projects](https://docs.astral.sh/uv/guides/projects/ )
+3. [uv: Installation](https://docs.astral.sh/uv/getting-started/installation/ )
