@@ -1,6 +1,6 @@
-gradio
-openai
-supabase
-python-dotenv
-pandas
-json
+gradio==6.26.0
+openai==3.3.1
+groq==1.7.0
+supabase==2.31.0
+python-dotenv==1.2.3
+pandas==3.0.5

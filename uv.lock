@@ -1069,16 +1069,20 @@ dependencies = [
     { name = "gradio" },
     { name = "groq" },
     { name = "openai" },
+    { name = "pandas" },
+    { name = "python-dotenv" },
     { name = "supabase" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "dotenv", specifier = ">=0.9.9" },
-    { name = "gradio", specifier = ">=6.26.0" },
-    { name = "groq", specifier = ">=1.7.0" },
-    { name = "openai", specifier = ">=3.3.1" },
-    { name = "supabase", specifier = ">=2.31.0" },
+    { name = "gradio", specifier = "==6.26.0" },
+    { name = "groq", specifier = "==1.7.0" },
+    { name = "openai", specifier = "==3.3.1" },
+    { name = "pandas", specifier = "==3.0.5" },
+    { name = "python-dotenv", specifier = "==1.2.3" },
+    { name = "supabase", specifier = "==2.31.0" },
 ]
 
 [[package]]
